@@ -1,4 +1,4 @@
-# Movies_Similarity
+# Movies Similarity
 
 Approach 1:
   Cosine similarity
